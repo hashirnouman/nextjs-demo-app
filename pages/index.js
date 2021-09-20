@@ -8,7 +8,7 @@ export default function Home() {
      <title>Home</title>
    </Head>
    <div>
-     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos sit, architecto aut unde perferendis accusamus modi sed ipsam deserunt asperiores.
+  this is home page
    </div>
    </>
   )
