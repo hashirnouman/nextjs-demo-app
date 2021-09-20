@@ -1,0 +1,11 @@
+.navbar {
+  background-color: blueviolet;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+.logo{
+    font-size: 20px;
+font-weight: 800;
+}
